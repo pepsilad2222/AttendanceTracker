@@ -23,7 +23,8 @@ Manual attendance tracking in classrooms is inefficient, error-prone, and lacks 
 - Automating this process enhances fairness and improves classroom management
 
 **Supporting Evidence:**
-- Many institutions are shifting to digital solutions due to time loss and error frequency in manual tracking
+- Many institutions are having a hard time keeping up with all students espically in classes where there are hundreds of people.
+- Anywhere from 5 to 10 minuets can be wasted by the instructor calling everyones name either at the beginning or end of class.
 - Research shows automating attendance improves reporting accuracy and reduces time spent on class logistics
 
 ---
@@ -47,7 +48,7 @@ A **Streamlit-based web application** where:
 
 ---
 
-### 🛠 Implementation Details
+### Implementation Details
 
 **Tools Used:**
 - Python 3
