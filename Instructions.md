@@ -10,11 +10,13 @@ A lightweight Streamlit application for managing classroom attendance efficientl
 In your terminal or command prompt, run:
 git clone https://github.com/pepsilad2222/AttendanceTracker.git  
 cd AttendanceTracker
+cd "MIS Project"
 
 ### Step 2: Install the Dependencies
 Make sure you have python installed. Once you do,
 Run the following commands:
 pip install streamlit
+
 pip install pandas
 
 ### Step 3: Run the App
@@ -35,7 +37,7 @@ http://localhost:8501
    - **9-digit Username** (e.g., `000000006`)
    - **Section** (e.g., `324.01`)
 3. Use the default **Lecture Code**: `55555`
-     A. The point of the Lecture Code is to only access the attendance while in class. The instructor will have it at the beginning of class and it will be randomly generated each class peroid. For the sake of this demonstration is will be 55555.
+4. The point of the Lecture Code is to only access the attendance while in class. The instructor will have it at the beginning of class and it will be randomly generated each class peroid. For the sake of this demonstration is will be 55555.
 5. Click **Enter** to verify your credentials.
 6. If valid, confirm your attendance by checking **"Yes, I am present"** and clicking **Submit Attendance**.
 7. You will see a success message confirming your attendance.
