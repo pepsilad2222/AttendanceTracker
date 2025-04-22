@@ -84,3 +84,12 @@ This tool saves educators time and reduces record-keeping mistakes. It promotes:
 - A digital solution accessible to any classroom, even with limited infrastructure
 
 ---
+
+## Authors
+
+- Michael Aghassi 
+- Matthew Delacruz
+- Jaden West
+- Fabrice Mpozenzi
+- Gray Hagood
+
