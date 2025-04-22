@@ -1,0 +1,23 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore PyInstaller build folders and files
+build/
+dist/
+*.spec
+*.toc
+*.pyz
+*.pkg
+*.exe
+
+# Ignore Streamlit's temporary data (optional)
+.streamlit/
+
+# Ignore logs or warnings
+*.log
+warn-*
+
+# Ignore hidden system files (macOS, Windows)
+.DS_Store
+Thumbs.db
