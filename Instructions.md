@@ -10,11 +10,13 @@ A lightweight Streamlit application for managing classroom attendance efficientl
 In your terminal or command prompt, run:
 git clone https://github.com/pepsilad2222/AttendanceTracker.git  
 cd AttendanceTracker
+
 cd "MIS Project"
 
 ### Step 2: Install the Dependencies
 Make sure you have python installed. Once you do,
 Run the following commands:
+
 pip install streamlit
 
 pip install pandas
