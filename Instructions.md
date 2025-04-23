@@ -4,11 +4,40 @@ A lightweight Streamlit application for managing classroom attendance efficientl
 
 ---
 
+## Prerequisites
+
+### Install Git
+
+1. Download Git from the official site: [https://git-scm.com/downloads](https://git-scm.com/downloads)  
+2. Run the installer and:
+   - Choose your preferred editor.
+   - When prompted, **select "Git from the command line and also from 3rd-party software"** to automatically add Git to your system PATH.
+3. After installation, confirm Git is installed by running:
+   ```
+   git --version
+   ```
+   in your terminal or command prompt.
+
+### Install Python
+
+1. Download Python (recommended version 3.10+) from: [https://www.python.org/downloads/](https://www.python.org/downloads/)
+2. During installation, **check the box that says "Add Python to PATH"** before clicking "Install Now".
+3. After installation, verify it worked:
+   ```
+   python --version
+   ```
+
+
+---
+# Two ways on how to run the application
+
 ## How to Clone and Run the App
 
 ### Step 1: Clone the Repository
 In your terminal or command prompt, run:
 git clone https://github.com/pepsilad2222/AttendanceTracker.git  
+
+
 cd AttendanceTracker
 
 cd "MIS Project"
@@ -29,6 +58,34 @@ This will open the app in your default browser at:
 http://localhost:8501
 
 ---
+
+## How to download the Zip (No Git installation required)
+
+### Step 1: Click the green code button and then in the drop down click "Download Zip"
+
+### Step 2: Find it, Right click it, and extract all
+
+### Step 3: Open up command prompt and type cd AttendanceTracker
+
+### Step 4: then type cd "MIS Project"
+
+### Step 5: Type in:
+
+
+pip install streamlit
+
+pip install pandas
+
+### Step 6: Finally type: streamlit run attendance_app.py
+
+
+This will open the app in your default browser at:  
+
+
+http://localhost:8501
+
+You can copy and paste this into your broswer if it does not automatically open up.
+
 
 ## How to Use the App
 
