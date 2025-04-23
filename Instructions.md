@@ -87,6 +87,8 @@ http://localhost:8501
 You can copy and paste this into your broswer if it does not automatically open up.
 
 
+---
+
 ## How to Use the App
 
 ###  Student Sign-In Instructions
